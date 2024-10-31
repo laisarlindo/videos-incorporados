@@ -1,0 +1,27 @@
+*{
+    text-align:center;
+}
+
+body{
+    background-color:blueviolet;
+}
+
+h2{
+    color: rgb(244, 209, 11);
+}
+
+p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color:rgba(7, 204, 243, 0.804);
+    color:palevioletred;
+    grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 1rem;
+}
+
